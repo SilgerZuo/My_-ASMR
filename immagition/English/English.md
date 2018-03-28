@@ -1,5 +1,6 @@
 # English
 
+这英语其实没啥大用，算是个日记吧，有道翻译就能记，就当随笔了。
 ## 专业英语
 
 | English       | Chinese | Example                                  |
@@ -20,4 +21,4 @@
 ## 生活英语
 | Header One | Header Two |
 |:---------- |:---------- |
-| Item One   | Item Two   | 
+| Item One   | Item Two   |
