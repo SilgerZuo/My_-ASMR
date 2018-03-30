@@ -3,6 +3,8 @@
 这英语其实没啥大用，算是个日记吧，有道翻译就能记，就当随笔了。
 ## 专业英语
 
+### word
+
 | English       | Chinese                 | Example                                              |
 |:------------- |:----------------------- | ---------------------------------------------------- |
 | entity        | 实例                    | 和数据库一一对应的                                   |
@@ -13,6 +15,9 @@
 | business unit | 事业部                  |                                                      |
 | warehouse     | 库存                    |                                                      |
 |               |                         |                                                      |
+
+### paragraph
+It will be appreciated that you can provide some simple steps to reproduce this issue.
 
 ## 名词简写
 
