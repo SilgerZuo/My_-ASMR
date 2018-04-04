@@ -10,3 +10,4 @@ My last leader always said the project or framework designed by others is only f
 After reviewing and self-learning for a long period, i start my critical period of seeking job.I went to alibaba, jingdong, and other companies for interviews and finally i'm here now.
 
 Enjoying the happiness of success of seeking job, i have reached a new stage of my life. The pass has gone and i need to get out of it. A new start is comming and here comes a new day.
+， ，，《≤
